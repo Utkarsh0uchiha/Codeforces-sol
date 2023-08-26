@@ -1,6 +1,6 @@
 # Codeforces-Sol
 
-This repository contains my solutions for various Codeforces problems. Each solution is categorized by its problem code and includes links to the problem statement and my solution code.
+This repository contains my solutions for various Codeforces problems. Each solution is categorized by its problem code and includes links to the problem statement and my solution code. 
 
 | Problem Code | Problem Link | Solution Link |
 |--------------|--------------|---------------|

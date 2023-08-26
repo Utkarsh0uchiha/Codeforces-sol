@@ -6,7 +6,7 @@
     {
         int n,t;
         cin>>n>>t;
-        string s;
+        string s; 
         cin>>s;
         while(t--){
             for(int i = 0; i < n - 1 ; ++i){

@@ -7,6 +7,9 @@ This repository contains my solutions for various Codeforces problems. Each solu
 | 69A      | [69A](https://codeforces.com/problemset/problem/69/A) | [C++](https://github.com/Utkarsh0uchiha/Codeforces-sol/blob/main/69A.cpp) |
 | 263A      | [263A](https://codeforces.com/problemset/problem/263/A) | [C++](https://github.com/Utkarsh0uchiha/Codeforces-sol/blob/main/263A.cpp) |
 | 266B      | [266B](https://codeforces.com/problemset/problem/266/B) | [C++](https://github.com/Utkarsh0uchiha/Codeforces-sol/blob/main/266B.cpp) |
+| 32B      | [32B](https://codeforces.com/problemset/problem/32/B) | [C++](https://github.com/Utkarsh0uchiha/Codeforces-sol/blob/main/32B.cpp) |
+| 271A      | [271B](https://codeforces.com/problemset/problem/271/A) | [C++](https://github.com/Utkarsh0uchiha/Codeforces-sol/blob/main/271A.cpp) |
+| 275A     | [266B](https://codeforces.com/problemset/problem/275/A) | [C++](https://github.com/Utkarsh0uchiha/Codeforces-sol/blob/main/275A.cpp) |
 | ...          | ...          | ...           |
 
 ## How to Use

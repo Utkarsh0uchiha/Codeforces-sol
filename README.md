@@ -4,9 +4,9 @@ This repository contains my solutions for various Codeforces problems. Each solu
 
 | Problem Code | Problem Link | Solution Link |
 |--------------|--------------|---------------|
-| 69A      | [69A](https://codeforces.com/problemset/problem/69/A) | [C++](https://github.com/yourusername/codeforces-solutions/blob/main/69A.cpp) |
-| 263A      | [263A](https://codeforces.com/problemset/problem/263/A) | [C++](https://github.com/yourusername/codeforces-solutions/blob/main/263A.cpp) |
-| 266B      | [266B](https://codeforces.com/problemset/problem/266/B) | [C++](https://github.com/yourusername/codeforces-solutions/blob/main/266B.cpp) |
+| 69A      | [69A](https://codeforces.com/problemset/problem/69/A) | [C++](https://github.com/Utkarsh0uchiha/Codeforces-sol/blob/main/69A.cpp) |
+| 263A      | [263A](https://codeforces.com/problemset/problem/263/A) | [C++](https://github.com/Utkarsh0uchiha/Codeforces-sol/blob/main/263A.cpp) |
+| 266B      | [266B](https://codeforces.com/problemset/problem/266/B) | [C++](https://github.com/Utkarsh0uchiha/Codeforces-sol/blob/main/266B.cpp) |
 | ...          | ...          | ...           |
 
 ## How to Use

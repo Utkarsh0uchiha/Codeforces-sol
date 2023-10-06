@@ -8,7 +8,7 @@ int main()
         if(p[i] == 'H' || p[i] == 'Q'|| p[i] == '9'){
             cout<<"YES";
             return 0;
-        }
+        } 
         
     }
     cout<<"NO";
